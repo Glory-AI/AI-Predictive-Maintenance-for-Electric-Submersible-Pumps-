@@ -8,6 +8,8 @@ The project evolved from foundational signal analysis into a **fully integrated 
 
 ---
 
+Videos and Demo here: https://drive.google.com/drive/folders/14DsRJi7k1ZDhcvWWN5aIVEwBc-N45djq?usp=drive_link
+
 ## 🎯 Objectives
 
 * Monitor ESP health using electrical current signals
